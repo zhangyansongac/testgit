@@ -2,3 +2,4 @@ this is a test page!
 hello world
 zhangyansong
 creating a new branch is quick.
+creating a new branch is quick & simple.
